@@ -1,0 +1,22 @@
+Prescription No: 3 
+Date and Time: 2024-04-05 21:47:04.971980 
+
+Doctor's Details:- 
+UID: 2 
+Name: Pravin Mudaliyar 
+Email: pravin@gmail.com 
+Ph. No.: 8787878789 
+
+Patient's Details:- 
+UID: 4 
+Name: Vipul Vekariya 
+Email: vipuldineshvekariya@gmail.com 
+Ph. No.: 9393939391 
+
+Description:- 
+asdfasdfasdf asdf asdf asdf asdf asdf asdfadsfasdf 
+
+Medicines:- 
+1. VITAMIN D (Rate: 400.0) Quantity: 3 Subtotal: 1200.0 
+
+Total Amount: 1200.0 

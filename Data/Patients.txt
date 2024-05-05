@@ -1,0 +1,4 @@
+1 Ramesh Kerai ramesh@gmail.com 12345 9876543845 First_Patient_of_the_hospital. 
+2 Jethalal Gadda jetha@gmail.com 1234 6666666666 Suffering_from_Obacity. 
+3 Tarak Mehta tarak@gmail.com 1234 6666777666 Healthy_body. 
+4 Vipul Vekariya vipuldineshvekariya@gmail.com 12345 9393939391 adlfadsf_asdf 

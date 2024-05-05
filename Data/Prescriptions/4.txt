@@ -1,0 +1,22 @@
+Prescription No: 4 
+Date and Time: 2024-04-05 21:48:45.543610 
+
+Doctor's Details:- 
+UID: 2 
+Name: Pravin Mudaliyar 
+Email: pravin@gmail.com 
+Ph. No.: 8787878789 
+
+Patient's Details:- 
+UID: 4 
+Name: Vipul Vekariya 
+Email: vipuldineshvekariya@gmail.com 
+Ph. No.: 9393939391 
+
+Description:- 
+adsfasdfasdf asdf asdf asdf asdfasdfasdf 
+
+Medicines:- 
+1. INSULIN (Rate: 1000.0) Quantity: 2 Subtotal: 2000.0 
+
+Total Amount: 2000.0 
