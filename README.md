@@ -32,10 +32,12 @@ All data is stored in text files:
 ## Prescription Format
 
 The prescription is saved as a text file, containing:
-- Doctor's name
-- Patient's name
-- Remarks
-- List of medicines with their prices
+- Prescription number
+- Date and Time
+- Doctor's details
+- Patient's details
+- Description
+- List of medicines with their quantity and prices
 - Total cost of medicines
 
 ## How to Run the Project
