@@ -1,6 +1,6 @@
 # Hospital Management System
 
-A CLI-based Hospital Management System built using Python in Jupyter Notebook. The system allows patients to create accounts, log in, and retrieve their latest prescriptions. Admins can add doctor accounts, and doctors can create prescriptions for patients. All data, including account credentials and medicine details, is stored in text files.
+A CLI-based Hospital Management System built using Python in Jupyter Notebook. The system allows patients to create accounts, log in, and retrieve their prescriptions. Admins can add medicines and doctor accounts in the hospital, and doctors can create prescriptions for patients. All data, including account credentials and medicine details, is stored in text files.
 
 ## Features
 
@@ -18,16 +18,15 @@ A CLI-based Hospital Management System built using Python in Jupyter Notebook. T
 
 ## System Overview
 
-- **Patients**: Can create an account, log in, search for doctors, and retrieve their latest prescription.
-- **Admins**: Can add new doctor accounts to the system.
+- **Patients**: Can create an account, log in, search for doctors, retrieve their latest prescription and list of all previous prescriptions.
+- **Admins**: Can add new doctor accounts to the system and add medicines details.
 - **Doctors**: Can create and manage prescriptions for patients, and search for medicines in the hospital.
 
 ## Data Storage
 
 All data is stored in text files:
-- Account credentials (username and password)
+- Account credentials (name, phone, email, bio and password)
 - Medicine details (name, quantity, price)
-- Doctor details (name, email, phone, bio)
 - Prescription files with doctor and patient details
 
 ## Prescription Format
@@ -43,4 +42,4 @@ The prescription is saved as a text file, containing:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/hospital-management-system.git
+   git clone https://github.com/Dharmesh-Padhra/Hospital-Management-System-using-Python.git
